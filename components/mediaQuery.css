@@ -224,6 +224,13 @@
   .knowledge-title {
     font-size: 2rem;
   }
+
+  /* about me */
+
+  .aboutme-list {
+    padding: 10px;
+    width: 80%;
+  }
 }
 
 @media screen and (min-width: 801px) and (max-width: 1050px) {
